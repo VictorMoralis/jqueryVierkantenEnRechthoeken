@@ -3,7 +3,7 @@ $(".vierkant").click(function(){
 });
 
 $("#showAll").click(function(){
-    $(".vierkant").show();
+    $(".vierkant .cirkel").show();
 });
 
 $(".rechthoek").dblclick(function(){
